@@ -2,7 +2,6 @@
 
 
 
-
 [![Build Status](https://travis-ci.com/yngtodd/bookdraft.svg?branch=master)](https://travis-ci.com/yngtodd/bookdraft)
 [![pypi](https://img.shields.io/pypi/v/bookdraft.svg)](https://pypi.python.org/pypi/bookdraft)
 ![github pages](https://github.com/yngtodd/bookdraft/workflows/github%20pages/badge.svg)
